@@ -1,1 +1,3 @@
 shell.nix
+.zig-cache
+zig-out
